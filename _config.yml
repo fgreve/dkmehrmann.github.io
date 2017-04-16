@@ -6,16 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Andrew Mehrmann
-email: andrew.mehrmann@gmail.com
+title: Fernando Greve
+email: fgreve@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal webpage for an aspiring data scientist.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dkmehrmann.github.io" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  dkmehrmann
-linkedin: https://www.linkedin.com/in/dkmehrmann
+url: "http://fgreve.github.io" # the base hostname & protocol for your site
+twitter_username: f_greve
+github_username:  fgreve
+linkedin: https://www.linkedin.com/in/fernando-greve-36235217/
 
 # Build settings
 markdown: kramdown
 
+# Fix “No repo name found”
+repository: 'fgreve/ffgreve.github.io'
