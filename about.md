@@ -13,5 +13,5 @@ I am an **Economist** at the [Productivity Commission of Chile (CNP)](http://www
 
 • Third, I am responsable of representing CNP in projects and research studies. These projects and research studies are mainly accomplished by faculties and universities, research centers, think tanks, public and private corporations, consultants and private companies.
 
-My e-mail is [fgreve@gmail.com](mailto:fgreve@gmail.com) and Here is my CV.
+My e-mail is [fgreve@gmail.com](mailto:fgreve@gmail.com) and [Here]({{ site.url }}/downloads/CV-FernandoGreve.pdf) is my CV.
 
