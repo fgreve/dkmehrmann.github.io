@@ -19,7 +19,7 @@ layout: default
 
 # Hello!
 
-Welcome my homepage! My name is Fernando Greve, I am an economist and engineer from Chile. I work as a **Research Economist** at the [Productivity Commission of Chile (CNP)](http://www.comisiondeproductividad.cl/) 
+Welcome to my homepage! My name is Fernando Greve, I am an economist and engineer from Chile. I work as a **Research Economist** at the [Productivity Commission of Chile (CNP)](http://www.comisiondeproductividad.cl/) 
 
 <div id='d3div'></div>
 
