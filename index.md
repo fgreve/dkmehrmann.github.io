@@ -17,9 +17,28 @@ layout: default
 </style>
 
 
-# Hello!
+# @fgreve
 
-Welcome to my homepage! My name is Fernando Greve, I am an economist and engineer from Chile. I work as a **Research Economist** at the [Productivity Commission of Chile (CNP)](http://www.comisiondeproductividad.cl/) 
+Welcome to my personal webpage! My name is Fernando Greve, I am an economist and engineer from Chile. I work as a **Research Economist** at the [Productivity Commission of Chile (CNP)](http://www.comisiondeproductividad.cl/) 
+
+
+## Recent Posts/Proyects
+
+<ul class="well">
+  {% for post in site.categories.blog limit:1 %}
+
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+
+      <span class="text-warning">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <p>{{ post.content | strip_html | truncatewords:75}}</p>
+      
+      <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a><br>
+
+  {% endfor %}
+</ul>
 
 <div id='d3div'></div>
 

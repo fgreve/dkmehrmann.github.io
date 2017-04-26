@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Projects/Blog
 ---
 
 
-# Posts
+# Projects/Blogs
 
 <ul style="padding-left:0px;">
   {% for post in site.categories.blog %}
