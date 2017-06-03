@@ -40,12 +40,14 @@ Welcome to my personal webpage! My name is Fernando Greve, I am an economist and
   {% endfor %}
 </ul>
 
+
 ><div style="text-align: right"><i> 
 "Hay que defenderse de esa incapacidad a veces tan nacional<br>
 y tan sudamericana, para desnudar la raiz de las cosas y verlas<br>  
 y comprenderlas antes de cubrirlas con la bruma de los objetivos<br> 
 con que se descargan nuestros prejuicios y pasiones."<br></i>  
 --Jorge Millas, Idea de la Individualidad.</div>
+
 
 <div id='d3div'></div>
 
