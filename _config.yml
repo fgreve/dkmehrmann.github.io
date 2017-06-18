@@ -21,3 +21,5 @@ markdown: kramdown
 
 # Fix “No repo name found”
 repository: 'fgreve/ffgreve.github.io'
+
+github: [metadata]
